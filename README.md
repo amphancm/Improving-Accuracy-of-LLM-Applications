@@ -2,11 +2,20 @@
 
 Welcome to the "Improving Accuracy of LLM Applications" course! 🚀 The course provides a systematic approach to enhance the accuracy and reliability of your LLM applications.
 
+<p align="center">
+<img src="images/l1_1.png" height="450"> 
+</p>
+
 ## 📘 Course Summary
 Many developers struggle with inconsistent results in LLM applications. 😓 This course is designed to address these challenges by offering hands-on experience in improving accuracy through evaluation, prompt engineering, self-reflection, and fine-tuning techniques.
 
 **What You’ll Do:**
 1. 🧠 **SQL Agent Development**: Build a text-to-SQL agent and simulate situations where it hallucinates to begin the evaluation process.
+<p align="center">
+<img src="images/l1_3.png" height="330"> 
+<img src="images/l1_4.png" height="330"> 
+</p>
+
 2. 📊 **Evaluation Framework**: Create a robust framework to systematically measure performance, including criteria for good evaluations, best practices, and developing an evaluation score.
 3. 🎯 **Instruction Fine-tuning**: Learn how instruction fine-tuning helps LLMs follow instructions more accurately and how memory fine-tuning embeds facts to reduce hallucinations.
 4. 🚀 **Performance-Efficient Fine-tuning (PEFT)**: Discover advanced techniques like Low-Rank Adaptation (LoRA) and Mixture of Memory Experts (MoME) to reduce training time while improving model performance.
