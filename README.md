@@ -18,7 +18,7 @@ Many developers struggle with inconsistent results in LLM applications. 😓 Thi
 
 2. 📊 **Evaluation Framework**: Create a robust framework to systematically measure performance, including criteria for good evaluations, best practices, and developing an evaluation score.
 <p align="center">
-<img src="images/l2_1.png" height="330"> 
+<img src="images/l2_1.png" height="500"> 
 </p>
 
 3. 🎯 **Instruction Fine-tuning**: Learn how instruction fine-tuning helps LLMs follow instructions more accurately and how memory fine-tuning embeds facts to reduce hallucinations.
